@@ -38,6 +38,5 @@ else {
 } ;
 
 //Bills//
-let bill;
-let tip;
-let totalValue;
+
+
